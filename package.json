@@ -1,0 +1,18 @@
+{
+  "name": "curso-html-y-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Lidianys"
+  },
+  "keywords": [
+    "L1i9d9i6"
+  ],
+  "author": "Lidianys",
+  "license": "ISC",
+  "description": ""
+}
